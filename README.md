@@ -1,5 +1,32 @@
-# Vue 3 + TypeScript + Vite
+# 🌕 달토끼의 한가위 마을 🐰
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+> “반가워! 🌕 달토끼의 한가위 마을에 놀러와!”  
+> 풍성하고 행복한 추석을 함께 준비해요 🎀🍡🍂
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+---
+
+## 🔗 배포 링크
+
+👉 [https://imsh429.github.io/vue-static-page/]
+
+---
+
+## ⚙️ 설치 및 실행 방법
+
+이 프로젝트는 **Vite + Vue 3 + TypeScript** 기반으로 만들어졌습니다.
+
+```bash
+# 1. 레포지토리 클론
+git clone https://github.com/imsh429/vue-static-page.git
+
+# 2. 의존성 설치
+npm install
+
+# 3. 개발 서버 실행
+npm run dev
+
+```
+
+## 💬 사용한 프롬프트 (Prompt)
+
+Vite + Vue + TS로 한가위 페이지를 만들고 싶어. app.vue 작성해줘. 1. 컨셉: '달토끼의 아기자기한 한가위 마을' (SNG 스타일) 2. 디자인: 색감: 전체적으로 부드러운 파스텔톤 (연한 노란색, 복숭아색, 하늘색, 크림색)을 메인으로 사용해 주세요. 배경은 따뜻한 크림색(#FFFBEB)을 사용해 줘. UI 요소: 모든 버튼, 섹션 카드 등은 border-radius를 12px 이상 줘서 동글동글하게 만들어줘. 그림자: 각 카드에 box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05); 같이 아주 연하고 부드러운 그림자를 넣어 입체감을 줘. 폰트: Google Fonts의 'Nanum Gothic Round' (또는 'Quicksand') 같이 둥근 느낌의 부드러운 폰트를 메인으로 사용해 줘. 아이콘: 귀여운 이모지(Emoji) 🌕, 🐰, 🍡, 🍂, 🎀 등을 적극적으로 사용해 줘. 3. 메인 카피: "반가워! 🌕 달토끼의 한가위 마을에 놀러와!" (부제: "풍성하고 행복한 추석을 함께 준비해요!") 4. 섹션 구성 (마을 활동): 각 섹션을 '마을의 할 일' 목록이 적힌 귀여운 메모지나 카드 형태로 만들어줘. [활동 1: 떡방앗간 일손 돕기 🍡] 송편: 오밀조밀 반달 모양으로 빚는 복을 담은 떡이에요. [활동 2: 풍성한 잔칫상 차리기 🍳] 전 & 잡채: 고소한 냄새가 가득! 명절 분위기를 물씬 풍기는 음식들이죠. [활동 3: 다 함께 즐거운 놀이터 🎲] 윷놀이 & 강강술래: 다 함께 모여 웃음꽃을 피우는 즐거운 전통 놀이. 5. 인터랙션 (상호작용): 페이지 마지막에 '소원나무에 리본 달기' 코너를 만들어줘. '내 소원 리본 달기 🎀' 버튼을 만들어. 버튼을 클릭하면, "소원이 예쁘게 걸렸어요! 꼭 이루어질 거예요." 라는 따뜻한 메시지가 버튼 아래에 나타나게 해줘.
